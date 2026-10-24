@@ -20,4 +20,6 @@ Already have Pawse? Install the new version over it: your pet and history stay. 
 |---|---|---|
 | 2.1.0 | 2026-10-24 | Light, dark or system theme with accent colours; switch species; 3D dog and fox; AI explanations fixed |
 
+Next version: 3.0 is in review and **not released yet**. See [RELEASE_STATUS.md](RELEASE_STATUS.md).
+
 SHA-256 of Pawse-2.1.0.apk: `c8801d33730fabf0478ad2e4a63b5f142c81688bbe01814f466d0b17532cba53`
