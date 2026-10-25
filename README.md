@@ -4,7 +4,7 @@
 
 ## Download
 
-**[Download Pawse 3.0.0 (APK, 4.8 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.0.0.apk)**
+**[Download Pawse 3.1.0 (APK, 4.8 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.1.0.apk)**
 
 ## Install
 
@@ -14,8 +14,8 @@
 
 **Coming from 2.1.0 or older? Do this once:**
 1. Open your old Pawse, check you're signed in (Me → Account), and tap **Sync now**, so everything is saved to your account.
-2. Uninstall the old Pawse. 3.0.0 has a new signature, so Android can't install it over the old one.
-3. Install 3.0.0 and sign in with the same account. Your pet and history come back. Anything that never synced to your account doesn't.
+2. Uninstall the old Pawse. Since 3.0.0 Pawse has a new signature, so Android can't install it over the old one.
+3. Install the new Pawse and sign in with the same account. Your pet and history come back. Anything that never synced to your account doesn't.
 
 From 3.0.0 on, new versions install over the old one as usual, and the app tells you on its home screen when one is out.
 
@@ -23,12 +23,13 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.1.0 | 2026-10-25 | Track more than one habit, each with its own pet and plan; pause and resume a track (a paused track sends no reminders); urge support that helps in the moment; the calendar shows check-ins and pauses; kinder wording after a slip; new tabs: Home, Calendar, Insights, You; accessibility and contrast fixes |
 | 3.0.0 | 2026-10-25 | Set your own goal; urge support; calm screen after a slip; weekly review; days you don't record count for nothing; your companion no longer dies by default (classic rules optional); at most two reminders a day. New signature: uninstall 2.1.0 first, then sign in |
 | 2.1.0 | 2026-10-24 | Light, dark or system theme with accent colours; switch species; 3D dog and fox; AI explanations fixed |
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-SHA-256 of Pawse-3.0.0.apk: `068d361827ef1ca61b98c022b5418b61adfe9bb555e7f3b93b038a794dd8c14c`
+SHA-256 of Pawse-3.1.0.apk: `33cc64ff62367a8d46fe7324589a99e00cc5925d811a1abdaa0d16effc1fdaf5`
 
 ## Test build (not a release)
 
