@@ -2,7 +2,26 @@
 
 Updated: 2026-10-25 (final verification run)
 
-## Current published release (unchanged)
+## 3.0.0 release (in this PR; published when it's merged)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.0.0 | 8 | `apk/Pawse-3.0.0.apk` (4,828,057 bytes) | `068d361827ef1ca61b98c022b5418b61adfe9bb555e7f3b93b038a794dd8c14c` | New release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built unsigned by pawse-app `061424c` in [Actions run 40157196626](https://github.com/jithujsam/pawse-app/actions/runs/40157196626): lint, typecheck, 166 app tests and the Android unit tests passed. The zip matched GitHub's digest. The APK was then zip-align checked and signed with the release key outside GitHub.
+
+**Verified on the signed file (2026-10-25):**
+- `apksigner verify`: v1 and v2 signatures, signer `CN=Pawse, O=Pawse`, certificate `10ab3feb…a9f8`;
+- `aapt2`: `app.detoxcompanion`, versionCode 8, versionName 3.0.0, not debuggable, min SDK 23, target SDK 35;
+- the web bundle inside reports `3.0.0`/8, and there's no API key in it;
+- the zip passes an integrity check;
+- the `docs/RELEASING.md` consistency check prints `OK 3.0.0 8`.
+
+**Not yet done:** installing on a real phone.
+
+**New signing key.** The key that signed 2.1.0 (certificate `80:81:68:8B:…:25:7B`) existed only on a temporary build machine and was lost. The owner approved a new key on 2026-10-25, and keeps its backup. Because the signature changed, Android won't install 3.0.0 over 2.1.0. People on 2.1.0 uninstall it once and install 3.0.0; signing in restores their pet and history from their account. The README, and the update notes shown in the app, say this.
+
+## Previously published release
 
 | Version | Code | File | SHA-256 | Checked |
 |---|---|---|---|---|
