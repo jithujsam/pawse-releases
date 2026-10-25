@@ -1,0 +1,11 @@
+File: Pawse-3.0.0-8-debug-90dda3e.apk
+App: app.detoxcompanion.test
+Version: 3.0.0 (code 8)
+Build type: debug (test only, never publish)
+Commit: 90dda3eaa61cdac203ed94001ca167de67370c1b
+Built: 2026-10-25T02:59:07Z by https://github.com/jithujsam/pawse-app/actions/runs/40156425870
+Signing certificate SHA-256: fe72e8b14284ccd84a5aacd95c5f8f19886244bfb0844aa439d57efb5c99d19a
+Debuggable: yes
+SHA-256: 3dd30940ff7d3a37d7495fecf3d46d2a34973a50ad032c408741d04c8ade3fa5
+Size: 5854063 bytes
+Tests (schema, engine, web): 29 passed (29) 10 passed (10) 127 passed (127); Android unit tests passed

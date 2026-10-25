@@ -22,4 +22,10 @@ Already have Pawse? Install the new version over it: your pet and history stay. 
 
 Next version: 3.0 is in review and **not released yet**. See [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
+## Test build (not a release)
+
+For testers only: **[Pawse Test 3.0.0 (APK, 5.9 MB)](test-builds/Pawse-Test-3.0.0-8.apk)**. It installs as a separate app called "Pawse Test", next to Pawse, and never replaces it or its data. It isn't offered as an update, and it uses your real account, so try it with a test account. Build details: [Pawse-Test-3.0.0-8.txt](test-builds/Pawse-Test-3.0.0-8.txt).
+
+SHA-256 of Pawse-Test-3.0.0-8.apk: `3dd30940ff7d3a37d7495fecf3d46d2a34973a50ad032c408741d04c8ade3fa5`
+
 SHA-256 of Pawse-2.1.0.apk: `c8801d33730fabf0478ad2e4a63b5f142c81688bbe01814f466d0b17532cba53`
