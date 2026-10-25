@@ -1,6 +1,6 @@
 # Release status
 
-Updated: 2026-10-24
+Updated: 2026-10-25
 
 ## Current published release (unchanged)
 
@@ -12,17 +12,17 @@ Updated: 2026-10-24
 
 ## Next: PAWSE 3.0 (UNRELEASED)
 
-There is **no 3.0 APK**. The app work is in review:
+There is **no 3.0 APK**. The app work is merged into `pawse-app/main`:
 
-- App PR: [jithujsam/pawse-app#14](https://github.com/jithujsam/pawse-app/pull/14) (draft), branch `ccr-9d7d359f-c2d6k6`
-- It overlaps with [jithujsam/pawse-app#13](https://github.com/jithujsam/pawse-app/pull/13), which also adds `docs/RELEASING.md` (the release procedure for this repo). Once #13 is merged, follow that procedure.
+- [jithujsam/pawse-app#14](https://github.com/jithujsam/pawse-app/pull/14) (PAWSE 3.0) and the release-readiness work from [#13](https://github.com/jithujsam/pawse-app/pull/13) were merged into `main` through [#15](https://github.com/jithujsam/pawse-app/pull/15), with continuity (no death) as the default pet rules.
+- The release procedure for this repo is [`docs/RELEASING.md`](https://github.com/jithujsam/pawse-app/blob/main/docs/RELEASING.md) in the app repo. Follow it for every release.
 
 Why no APK yet: the build environment couldn't download Android build dependencies (Maven Central returned HTTP 429), the release signing key isn't available there by design, and no device tests have run.
 
 ### Checklist for 3.0
 
-1. [ ] Owner decides the default pet rules (continuity vs death); #13 and #14 merged to `main` in the agreed order
-2. [ ] `pnpm test`, `pnpm typecheck` and `pnpm build` pass on the merged `main`
+1. [x] #13 and #14 merged to `main` (via #15) with continuity as the default pet rules. Owner to confirm that default before release.
+2. [x] `pnpm test` (166/166), `pnpm typecheck` and `pnpm build` pass on `main` at `c85fe89` (run 2026-10-25)
 3. [ ] Supabase: migrations 0004 and 0005 applied, `ai` function deployed (the app works without them, but urge strategies won't sync and the AI cache won't write)
 4. [ ] `apps/web/version.json` bumped (name and a code above 7)
 5. [ ] Release APK built and signed with the existing key (same signature, so it installs over 2.1.0 and keeps data)
