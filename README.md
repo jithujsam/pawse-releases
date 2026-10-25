@@ -4,7 +4,7 @@
 
 ## Download
 
-**[Download Pawse 3.3.0 (APK, 5.1 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.3.0.apk)**
+**[Download Pawse 3.4.0 (APK, 5.1 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.4.0.apk)**
 
 ## Install
 
@@ -23,6 +23,7 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.4.0 | 2026-10-25 | Delete a pet from its card; a new launch screen; adding a habit and setting up are all in your own words, with nothing prefilled (name what to count, and what sets it off, yourself); new check-ins ask only for what you chose, plus a note and an optional photo; the app stays above the phone's navigation bar |
 | 3.3.0 | 2026-10-25 | A calm opening and loading animation; the 3D dog has a face that shows how it feels (eyes, brows, tears, tongue, ears, tail); a separate Drawn / 3D style choice for the dog; the Pets list and profile show the 3D dog; the app notices new versions, downloads them and checks them before installing (3.2.0) |
 | 3.1.0 | 2026-10-25 | Track more than one habit, each with its own pet and plan; pause and resume a track (a paused track sends no reminders); urge support that helps in the moment; the calendar shows check-ins and pauses; kinder wording after a slip; new tabs: Home, Calendar, Insights, You; accessibility and contrast fixes |
 | 3.0.0 | 2026-10-25 | Set your own goal; urge support; calm screen after a slip; weekly review; days you don't record count for nothing; your companion no longer dies by default (classic rules optional); at most two reminders a day. New signature: uninstall 2.1.0 first, then sign in |
@@ -30,7 +31,7 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-SHA-256 of Pawse-3.3.0.apk: `efaa057a8c9dfcb665c814f375743c73276a78f56622fb5da59a8263ab0fa815`
+SHA-256 of Pawse-3.4.0.apk: `28a60d734f5eb2556400a3ab638e1a0975336b21a891e128704fa1a056b3c169`
 
 ## Test build (not a release)
 
