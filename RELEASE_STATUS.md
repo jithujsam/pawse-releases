@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.8 release)
+Updated: 2026-10-26 (3.9.9 release)
+
+## 3.9.9 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.9 | 36 | `apk/Pawse-3.9.9.apk` (6708487 bytes) | `826017a491e1b43f9e26c474824d12e40216a2e49be6b8cb6bb70eb31064562e` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `a8ce9bd` on the designated feature branch (`ccr-8a2d4e37-nz8qm8`), not `main`. The widget change replaces the StackView with four fixed pet slots and removes `PetStackService`. `./gradlew assembleRelease` passed, and the web build passed. The Java widget change has no unit tests; `pnpm test` covers the web code only.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 36, versionName 3.9.9, not debuggable; the web bundle inside reports 3.9.9/36; `PetStackService` is absent from the APK. Not checked on a device: the widget sizes.
 
 ## 3.9.8 release (published to main under the owner's standing approval)
 
