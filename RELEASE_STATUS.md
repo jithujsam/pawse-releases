@@ -1,6 +1,18 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.0 release)
+Updated: 2026-10-26 (3.9.1 release)
+
+## 3.9.1 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.1 | 28 | `apk/Pawse-3.9.1.apk` (6,709,488 bytes) | `f2efbcb397367efb913bbe4b082a4210882f5e4aee11563ad702f8d551d4dc7c` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed in a Claude cloud session from pawse-app `8d874f6` (main), after typecheck, test (364 passed) and build passed. `./gradlew assembleRelease`.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 28, versionName 3.9.1; the web bundle inside reports 3.9.1/28.
+
+**Supersedes 3.9.0 (code 27)**, which was published earlier the same day with the slide transitions still in place.
 
 ## 3.9.0 release (published to main under the owner's standing approval)
 

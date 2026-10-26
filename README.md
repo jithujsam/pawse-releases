@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.0.apk"><b>Download pawse 3.9.0 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.1.apk"><b>Download pawse 3.9.1 for Android (APK, 6.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.1 | 2026-10-26 | Screens, onboarding steps and the calendar month fade in and out, with no sliding from the side. Sections fade in without moving. The update pop-up is clearer, with room between its buttons |
 | 3.9.0 | 2026-10-26 | A clearer update pop-up, with room between its buttons. Tab screens show placeholders while they load, with no held loader. Calendar: today and the two days before it open in a sheet to log a slip or a clean day. Dropdowns use pawse's own menu |
 | 3.8.9 | 2026-10-26 | Calendar: today and the two days before it open in a sheet to log a slip or mark a clean day. Loading plays once, then the page appears. Dropdowns use pawse's own menu instead of the phone's picker |
 | 3.8.8 | 2026-10-26 | The update pop-up is cleaner: no icon, roomier spacing, and Later and Don't remind sit under Download & install |
@@ -94,7 +95,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.0.apk:** `b6d8131342f2dc78e30876f16a150ccaed209698becea7b2f78582b858a15813`
+**SHA-256 of Pawse-3.9.1.apk:** `f2efbcb397367efb913bbe4b082a4210882f5e4aee11563ad702f8d551d4dc7c`
 
 ## Test build (not a release)
 
