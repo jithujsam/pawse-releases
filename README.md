@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A gentle companion that turns quitting a habit into something you can see, feel and care for.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.4.apk"><b>Download Pawse 3.8.4 for Android (APK, 7.9 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.5.apk"><b>Download Pawse 3.8.5 for Android (APK, 7.9 MB)</b></a></p>
 
 ---
 
@@ -50,6 +50,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.8.5 | 2026-10-26 | The update pop-up is back, so new versions are always shown when you open Pawse. Pop-ups blur the page behind them. Pet widgets are included |
 | 3.8.4 | 2026-10-26 | The page behind sheets and pop-ups is properly blurred, so it stays out of the way; the pet widgets and cleaner look from 3.8.3 are included |
 | 3.8.3 | 2026-10-26 | Pet widgets: a stack of your pets on your home screen, in a solid or a clear version, each one moving and reacting to its mood. The look is cleaner and roomier, with the glow gone. The update popup is gone; the Home banner still shows new versions |
 | 3.8.2 | 2026-10-26 | The glowing effects are gone across the app, and cards, buttons, lists and sheets have more room to breathe |
@@ -67,7 +68,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.8.4.apk:** `768cc60df26271d676f7dcb3278ac5037ede45207c728503a922b643d9101179`
+**SHA-256 of Pawse-3.8.5.apk:** `9c673eb8d8c281693aad86e60769b787d0063627c3a89df4e4ba6d0f542a6344`
 
 ## Test build (not a release)
 
