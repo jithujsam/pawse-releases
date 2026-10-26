@@ -1,6 +1,23 @@
 # Release status
 
-Updated: 2026-10-25 (3.1.0 release)
+Updated: 2026-10-26 (3.8.6 release)
+
+## 3.8.6 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.8.6 | 23 | `apk/Pawse-3.8.6.apk` (6,696,639 bytes) | `e78166cdc525b2e305c48f9c965721da46577607d7fb6ecf2e7e54da451be6fd` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed in a Claude cloud session from pawse-app `616e0a9` (main), after `pnpm lint`, `typecheck`, `test` (13 + 29 + 287) and `build` passed. Later main commits up to `6bb4bf5` change only the README and docs screenshots.
+
+**Verified on the signed file (2026-10-26):**
+- `apksigner verify`: v2 signature, one signer, certificate `10ab3feb…a9f8`;
+- `aapt2`: `app.detoxcompanion`, versionCode 23, versionName 3.8.6, label `pawse`, not debuggable, target SDK 35;
+- the web bundle inside reports `3.8.6`/23, and there's no API key in it;
+- the zip passes an integrity check;
+- the `docs/RELEASING.md` consistency check prints `OK 3.8.6 23`.
+
+**Not yet done:** installing on a real phone over 3.8.5, and the widgets on a real launcher.
 
 ## 3.1.0 release (in this PR; published when it's merged)
 
