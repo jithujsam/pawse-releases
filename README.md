@@ -4,7 +4,7 @@
 
 ## Download
 
-**[Download Pawse 3.7.0 (APK, 5.1 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.7.0.apk)**
+**[Download Pawse 3.8.0 (APK, 5.1 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.0.apk)**
 
 ## Install
 
@@ -23,6 +23,7 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.8.0 | 2026-10-26 | An update popup when you open Pawse, in the app's own style: what's new, then Download & install, Later (asks again tomorrow) or Don't remind (skips that version); the background update notification is gone; if the update check can't reach the internet it now says so instead of "you have the latest version" |
 | 3.7.0 | 2026-10-26 | A warmer, more polished look: clay-toned colours, softer depth and a raised + button; dark mode takes the shade of your accent colour (deep navy for blue, aubergine for plum) instead of plain black; Insights and the health sheet refreshed; the tabs are now Home, Journey, Insights and Me |
 | 3.6.0 | 2026-10-26 | Make a pet in two steps: pick it from all six, name it and choose its coat and personality, then say what it's for; the pet screen is just the pet and a daily check-in with four quick buttons (slipped, urge, goal met, not tracking); make or edit a plan from the + menu, for any pet; the calendar starts with your pet's age; a smaller check-in on Insights with the weekly review folded away |
 | 3.5.0 | 2026-10-26 | Every question is a dropdown instead of tabs and chips, each with a Something else option to type your own; new common choices for habits, what to count, situations, reasons and first steps; the log sheet can pick any past day |
@@ -35,7 +36,7 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-SHA-256 of Pawse-3.7.0.apk: `a8b0c522afb622a22a75e800a8fb558022dd367662b0469e598152392351cbed`
+SHA-256 of Pawse-3.8.0.apk: `3b0ad94ddde1f443c19cfe6f7b72d3945aa2a6779593538f4e501d406e35ad63`
 
 ## Test build (not a release)
 
