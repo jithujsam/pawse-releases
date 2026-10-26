@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.5 release)
+Updated: 2026-10-26 (3.9.6 release)
+
+## 3.9.6 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.6 | 33 | `apk/Pawse-3.9.6.apk` (6,711,398 bytes) | `bdf73938be334b712d0238f785f12c70e59cb98b93c44c15f45de2d92d82f083` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `e338679` (main), after lint, typecheck, test (368 passed) and build passed. `./gradlew clean assembleRelease`.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 33, versionName 3.9.6, not debuggable; the web bundle inside reports 3.9.6/33. The day sheet and the dropdown menus were checked in a browser. Not checked on a device: the reminders, the reused update download and the no-zoom setting.
 
 ## 3.9.5 release (published to main under the owner's standing approval)
 
