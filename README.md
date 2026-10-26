@@ -4,7 +4,7 @@
 
 ## Download
 
-**[Download Pawse 3.5.0 (APK, 5.1 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.5.0.apk)**
+**[Download Pawse 3.6.0 (APK, 5.1 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.6.0.apk)**
 
 ## Install
 
@@ -23,6 +23,7 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.6.0 | 2026-10-26 | Make a pet in two steps: pick it from all six, name it and choose its coat and personality, then say what it's for; the pet screen is just the pet and a daily check-in with four quick buttons (slipped, urge, goal met, not tracking); make or edit a plan from the + menu, for any pet; the calendar starts with your pet's age; a smaller check-in on Insights with the weekly review folded away |
 | 3.5.0 | 2026-10-26 | Every question is a dropdown instead of tabs and chips, each with a Something else option to type your own; new common choices for habits, what to count, situations, reasons and first steps; the log sheet can pick any past day |
 | 3.4.1 | 2026-10-25 | Your plan is in your own words too: reasons, hard situations and first step are typed, with no suggested chips |
 | 3.4.0 | 2026-10-25 | Delete a pet from its card; a new launch screen; adding a habit and setting up are all in your own words, with nothing prefilled (name what to count, and what sets it off, yourself); new check-ins ask only for what you chose, plus a note and an optional photo; the app stays above the phone's navigation bar |
@@ -33,7 +34,7 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-SHA-256 of Pawse-3.5.0.apk: `14f489f083900f902ef8236f0fb8eeb05edeb3f21f53102ec43168a34882a44e`
+SHA-256 of Pawse-3.6.0.apk: `c2b07075689b5fffe3b22d5699f5dbb0c385aac7acb6a3db648b4be4246cdb5d`
 
 ## Test build (not a release)
 
