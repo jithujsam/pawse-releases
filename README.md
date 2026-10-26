@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.10.apk"><b>Download pawse 3.9.10 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.11.apk"><b>Download pawse 3.9.11 for Android (APK, 6.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.11 | 2026-10-26 | Home screen pet widgets slide between your pets, one at a time, with arrows to step through them |
 | 3.9.10 | 2026-10-26 | Each pet's name shows under it in the home screen widgets, unless the app is locked |
 | 3.9.9 | 2026-10-26 | The pets in the home screen widgets are bigger, one per slot |
 | 3.9.8 | 2026-10-26 | The pets in the home screen widgets are bigger |
@@ -104,7 +105,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.10.apk:** `80b9fd2ce44b0493d63251278dc9828b542493b7479d33617af7be74f8431bcf`
+**SHA-256 of Pawse-3.9.11.apk:** `b4b7560a76d1fe219fb50c5e266de1df72ad4ee7a1d79fcc4bd1ee856cbf87c2`
 
 ## Test build (not a release)
 

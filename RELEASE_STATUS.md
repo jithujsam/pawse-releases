@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.10 release)
+Updated: 2026-10-26 (3.9.11 release)
+
+## 3.9.11 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.11 | 38 | `apk/Pawse-3.9.11.apk` (6710820 bytes) | `b4b7560a76d1fe219fb50c5e266de1df72ad4ee7a1d79fcc4bd1ee856cbf87c2` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `6359936` on the designated feature branch (`ccr-8a2d4e37-nz8qm8`), not `main`. The widgets show one pet per page: the pages slide every six seconds and the arrows step through them. Lint, typecheck and tests (368 web, 29 engine, 13 schema) and the web build passed; `./gradlew assembleRelease` passed.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 38, versionName 3.9.11, not debuggable; the web bundle inside reports 3.9.11/38. Not checked on a device: the slideshow, the arrows and the widget with a PIN set.
 
 ## 3.9.10 release (published to main under the owner's standing approval)
 
