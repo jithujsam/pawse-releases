@@ -2,6 +2,25 @@
 <h1 align="center">Pawse for Android</h1>
 <p align="center"><b>Pause the habit. Keep your pet happy.</b></p>
 
+Pawse helps you change a habit you want to understand or cut back on. Each habit gets its own pet. Check in each day, and the pet shows how you're doing: it's happy when you're on track and waits for you when you haven't checked in yet.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="screenshots/home-dark.png">
+    <img src="screenshots/home-light.png" width="260" alt="Pawse home screen: a pet waiting for today's check-in, with History, Conditions and You and pet below it">
+  </picture>
+</p>
+
+## What you can do
+
+- **Check in each day.** Mark a clean day, log a slip, or note an urge. One tap is enough.
+- **Keep your pet company.** Pick one of six pets, name it, and choose its coat and personality.
+- **See your history.** The calendar and History show check-ins, slips and pauses over time.
+- **Get through urges.** Quick support for the moment a craving hits.
+- **Track more than one habit.** Each habit has its own pet and plan. Pause a habit any time; a paused habit sends no reminders.
+- **Set the look.** Light, dark or system theme, with an accent colour of your choice.
+- **Keep your data safe.** Sign in to sync your pet and history to your account. Add a PIN to lock the app.
+
 ## Download
 
 **[Download Pawse 3.8.2 (APK, 5.3 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.2.apk)**
