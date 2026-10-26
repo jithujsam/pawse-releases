@@ -17,11 +17,11 @@ with you.
 - **Check in with a tap.** Slipped, urge, goal met or not tracking. Done in seconds.
 - **Urge support** for the moment that matters, with a calm screen to get you through it.
 - **A weekly review** that shows what's working, without the guilt.
-- **Three tones.** Gentle, honest or brutal: you choose how your pet talks to you.
+- **Three tones.** Gentle, Honest or Direct: you choose how your pet talks to you.
 
 ## Right on your home screen
 
-Two pet widgets show every pet you're caring for, stacked and moving the way they do in the app.
+Two pet widgets show every pet you're caring for, stacked, each one breathing and showing how its day is going.
 Pick the one with a background, or the clear one that sits on your wallpaper. Tap a pet to check in.
 
 ## Made for you
@@ -29,7 +29,7 @@ Pick the one with a background, or the clear one that sits on your wallpaper. Ta
 - **Plans you write yourself.** Your reasons, your hard moments, your first step.
 - **Several habits at once.** Each with its own pet and plan. Pause any of them whenever you need to.
 - **Yours to keep.** Light, dark or system theme. Choose your accent colour. Lock the app with a PIN.
-- **Private by design.** No calorie, weight or restriction tracking. Ever.
+- **Your records, protected.** They back up to your own account, which only you can sign in to. Set a PIN and everything on the phone is encrypted. When you log a slip, its details go to an AI model that writes a short note back. No calorie, weight or restriction tracking, ever.
 
 ## Install in a minute
 
@@ -37,7 +37,7 @@ Pick the one with a background, or the clear one that sits on your wallpaper. Ta
 2. Open the file. If Android asks, allow installs from your browser (Settings, then "Install unknown apps").
 3. Tap **Install**, then open Pawse.
 
-Pawse updates itself. When a new version is out, the Home screen tells you, and one tap installs it.
+Pawse checks for updates itself. When a new version is out, it tells you when you open it, and one tap downloads it and opens Android's installer.
 
 **Coming from 2.1.0 or older? Do this once:**
 1. Open your old Pawse, check you're signed in (Me → Account), and tap **Sync now**, so everything is saved to your account.
