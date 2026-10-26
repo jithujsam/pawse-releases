@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.6 release)
+Updated: 2026-10-26 (3.9.8 release)
+
+## 3.9.8 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.8 | 35 | `apk/Pawse-3.9.8.apk` (6709342 bytes) | `34687b9bc2bc8c306bd12b6d4dcf6ce62420d7b8e8805835279ab265bc15cf88` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `4bdfbff`, which is `main` (`b8a3ff3`, the widget change from PR #32) plus the version bump to 3.9.8. Built on the designated feature branch, not on `main`, because the bump was not pushed to `main`. After lint, typecheck, test (368 passed) and build passed. `./gradlew assembleRelease`.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 35, versionName 3.9.8, not debuggable; the web bundle inside reports 3.9.8/35. Not checked on a device: the widget sizes.
 
 ## 3.9.6 release (published to main under the owner's standing approval)
 
