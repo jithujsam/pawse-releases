@@ -1,47 +1,56 @@
-<p align="center"><img src="icon.png" width="96" alt="Pawse"></p>
-<h1 align="center">Pawse for Android</h1>
-<p align="center"><b>Pause the habit. Keep your pet happy.</b></p>
+<p align="center"><img src="icon.png" width="112" alt="Pawse"></p>
+<h1 align="center">Pawse</h1>
+<h3 align="center">Pause the habit. Keep your pet happy.</h3>
+<p align="center">A gentle companion that turns quitting a habit into something you can see, feel and care for.</p>
 
-Pawse helps you change a habit you want to understand or cut back on. Each habit gets its own pet. Check in each day, and the pet shows how you're doing: it's happy when you're on track and waits for you when you haven't checked in yet.
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.3.apk"><b>Download Pawse 3.8.3 for Android (APK, 7.9 MB)</b></a></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="screenshots/home-dark.png">
-    <img src="screenshots/home-light.png" width="260" alt="Pawse home screen: a pet waiting for today's check-in, with History, Conditions and You and pet below it">
-  </picture>
-</p>
+---
 
-## What you can do
+## Your pet grows when you do
 
-- **Check in each day.** Mark a clean day, log a slip, or note an urge. One tap is enough.
-- **Keep your pet company.** Pick one of six pets, name it, and choose its coat and personality.
-- **See your history.** The calendar and History show check-ins, slips and pauses over time.
-- **Get through urges.** Quick support for the moment a craving hits.
-- **Track more than one habit.** Each habit has its own pet and plan. Pause a habit any time; a paused habit sends no reminders.
-- **Set the look.** Light, dark or system theme, with an accent colour of your choice.
-- **Keep your data safe.** Sign in to sync your pet and history to your account. Add a PIN to lock the app.
+Pawse pairs every habit you're quitting with a pet of its own. Check in each day, and your companion
+stays bright. Slip, and it feels it, without ever being cruel about it. Keep going, and it grows up
+with you.
 
-## Download
+- **Six pets** to choose from: dog, cat, rabbit, fox, owl and panda, each with its own coat and personality.
+- **Check in with a tap.** Slipped, urge, goal met or not tracking. Done in seconds.
+- **Urge support** for the moment that matters, with a calm screen to get you through it.
+- **A weekly review** that shows what's working, without the guilt.
+- **Three tones.** Gentle, honest or brutal: you choose how your pet talks to you.
 
-**[Download Pawse 3.8.2 (APK, 5.3 MB)](https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.2.apk)**
+## Right on your home screen
 
-## Install
+Two pet widgets show every pet you're caring for, stacked and moving the way they do in the app.
+Pick the one with a background, or the clear one that sits on your wallpaper. Tap a pet to check in.
 
-1. Open the link above on your Android phone and download the file.
-2. Tap the downloaded file. If Android asks, allow installs from your browser (Settings, then "Install unknown apps").
+## Made for you
+
+- **Plans you write yourself.** Your reasons, your hard moments, your first step.
+- **Several habits at once.** Each with its own pet and plan. Pause any of them whenever you need to.
+- **Yours to keep.** Light, dark or system theme. Choose your accent colour. Lock the app with a PIN.
+- **Private by design.** No calorie, weight or restriction tracking. Ever.
+
+## Install in a minute
+
+1. Tap the download button above on your Android phone.
+2. Open the file. If Android asks, allow installs from your browser (Settings, then "Install unknown apps").
 3. Tap **Install**, then open Pawse.
+
+Pawse updates itself. When a new version is out, the Home screen tells you, and one tap installs it.
 
 **Coming from 2.1.0 or older? Do this once:**
 1. Open your old Pawse, check you're signed in (Me → Account), and tap **Sync now**, so everything is saved to your account.
 2. Uninstall the old Pawse. Since 3.0.0 Pawse has a new signature, so Android can't install it over the old one.
 3. Install the new Pawse and sign in with the same account. Your pet and history come back. Anything that never synced to your account doesn't.
 
-From 3.0.0 on, new versions install over the old one as usual, and the app tells you on its home screen when one is out.
+From 3.0.0 on, new versions install over the old one as usual.
 
-## Versions
+---
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.8.3 | 2026-10-26 | Pet widgets: a stack of your pets on your home screen, in a solid or a clear version, each one moving and reacting to its mood. The look is cleaner and roomier, with the glow gone. The update popup is gone; the Home banner still shows new versions |
 | 3.8.2 | 2026-10-26 | The glowing effects are gone across the app, and cards, buttons, lists and sheets have more room to breathe |
 | 3.8.1 | 2026-10-26 | The paw is now the logo everywhere: on the launch screen, the loading screen and the app icon, which now sits on a cream background; the loading screen is just the paw, beating softly |
 | 3.8.0 | 2026-10-26 | An update popup when you open Pawse, in the app's own style: what's new, then Download & install, Later (asks again tomorrow) or Don't remind (skips that version); the background update notification is gone; if the update check can't reach the internet it now says so instead of "you have the latest version" |
@@ -57,7 +66,7 @@ From 3.0.0 on, new versions install over the old one as usual, and the app tells
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-SHA-256 of Pawse-3.8.2.apk: `f8349207472202d56dc8881fa1f29e5f50908e3bb337ae556d0a451c153ee0e5`
+**SHA-256 of Pawse-3.8.3.apk:** `3ac2819266b32f774315fffcf6c06582f15816c45105f4bb9cb6ad806a288159`
 
 ## Test build (not a release)
 
