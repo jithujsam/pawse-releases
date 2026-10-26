@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.2 release)
+Updated: 2026-10-26 (3.9.3 release)
+
+## 3.9.3 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.3 | 30 | `apk/Pawse-3.9.3.apk` (6,709,462 bytes) | `0adac978efaca7fffec0be6a65dcb6eddd19533ae376a7ba7b67dced2eb526e6` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `4ca0766`, after lint, typecheck, test (364 passed) and build passed. `./gradlew assembleRelease`.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 30, versionName 3.9.3, not debuggable; the web bundle inside reports 3.9.3/30. The fix was also checked in a browser: tapping an editable calendar day opens the sheet with its content, and marking the day updates it.
 
 ## 3.9.2 release (published to main under the owner's standing approval)
 
