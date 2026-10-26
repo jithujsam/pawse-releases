@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.4 release)
+Updated: 2026-10-26 (3.9.5 release)
+
+## 3.9.5 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.5 | 32 | `apk/Pawse-3.9.5.apk` (6,710,094 bytes) | `8c0c6a71d69778bd8c2bbebf38c5b0ff040450eda8b73a51d6218b3548f2964d` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `8c90d4a` (main), after lint, typecheck, test (365 passed) and build passed. `./gradlew assembleRelease`.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 32, versionName 3.9.5, not debuggable; the web bundle inside reports 3.9.5/32. The calendar sheet (editable, locked and future days), the slip form and the update pop-up were checked in a browser.
 
 ## 3.9.4 release (published to main under the owner's standing approval)
 

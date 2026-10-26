@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.4.apk"><b>Download pawse 3.9.4 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.5.apk"><b>Download pawse 3.9.5 for Android (APK, 6.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.5 | 2026-10-26 | Every calendar date opens; the last 4 days can be edited and older days are locked; tidier update pop-up |
 | 3.9.4 | 2026-10-26 | A new About page, a simpler update pop-up and shorter labels on the day sheet |
 | 3.9.3 | 2026-10-26 | Fixed the empty pop-up when tapping a date on the calendar |
 | 3.9.2 | 2026-10-26 | The calendar and the slip sheet show real dates for the last four days, so you can fix a day you forgot. Tapping a highlighted date opens the same day sheet as before |
@@ -98,7 +99,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.4.apk:** `876f79309ee2c868a6df8b7c0fba8069c27858c0cc8379f99f166e9d76132635`
+**SHA-256 of Pawse-3.9.5.apk:** `8c0c6a71d69778bd8c2bbebf38c5b0ff040450eda8b73a51d6218b3548f2964d`
 
 ## Test build (not a release)
 
