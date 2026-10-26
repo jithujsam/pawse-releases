@@ -1,6 +1,21 @@
 # Release status
 
-Updated: 2026-10-26 (3.8.6 release)
+Updated: 2026-10-26 (3.8.9 release)
+
+## 3.8.9 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.8.9 | 26 | `apk/Pawse-3.8.9.apk` (6,709,716 bytes) | `374ce32d390be21791ff0616b6658d96e2e963e82cae76de31b1abb33ca21838` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed in a Claude cloud session from pawse-app `7f0c84d` (main, merge of the calendar, loader and dropdown work), after `pnpm lint`, `typecheck`, `test` (364 passed) and `build` passed. Built with `./gradlew assembleRelease` (Gradle 8.11.1, Android SDK platform 35, build-tools 35.0.0).
+
+**Verified on the signed file (2026-10-26):**
+- `apksigner verify`: v1 and v2 signatures, one signer, certificate `10ab3feb…a9f8`;
+- `aapt2`: `app.detoxcompanion`, versionCode 26, versionName 3.8.9, minSdk 23, target SDK 35;
+- the web bundle inside reports `3.8.9`/26.
+
+**Not yet done:** installing on a real phone over 3.8.8, and checking the new dropdown menus on the device.
 
 ## 3.8.6 release (published to main under the owner's standing approval)
 
