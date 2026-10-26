@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.7.apk"><b>Download pawse 3.8.7 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.8.8.apk"><b>Download pawse 3.8.8 for Android (APK, 6.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.8.8 | 2026-10-26 | The update pop-up is cleaner: no icon, roomier spacing, and Later and Don't remind sit under Download & install |
 | 3.8.7 | 2026-10-26 | Safer, clearer words everywhere. Food, weight and crisis language is caught in every field you can type in, and pawse never tracks calories or weight. Privacy and reminder text now matches what the app really does, your pet never refuses food or makes you earn its care, counts read correctly (1 month, 1 slip), and the account screens say what to do next. The tabs are Home, Journey, Insights and Me |
 | 3.8.6 | 2026-10-26 | Every pet is 3D: a 3D dog, a blocky voxel cat and a 3D fox. Fill in or correct today and the three days before it from the calendar. A compact check-in menu, a plain dim behind sheets (no more smeared text), a paw that fills toe by toe while loading, and widgets that show each pet in 3D in its mood today. The name is now pawse |
 | 3.8.5 | 2026-10-26 | The update pop-up is back, so new versions are always shown when you open pawse. Pop-ups blur the page behind them. Pet widgets are included |
@@ -91,7 +92,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.8.7.apk:** `3cba6101b04e2e731d6e38cb86b0898add9345b6cb58d5d65825f0f2032534ee`
+**SHA-256 of Pawse-3.8.8.apk:** `9722e2bae019ef968ca1dbe168405d984ab06e648de6c5934f31ca0cf17d3aa9`
 
 ## Test build (not a release)
 
