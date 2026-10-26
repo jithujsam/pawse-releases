@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.1 release)
+Updated: 2026-10-26 (3.9.2 release)
+
+## 3.9.2 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.2 | 29 | `apk/Pawse-3.9.2.apk` (6,709,412 bytes) | `971cbdc2dec69f6cfee5c28a04a407a9b71cb0fa89e486a9d7fd8c8c006674ca` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `ed9eb52` (main), after typecheck, test (364 passed) and build passed. `./gradlew assembleRelease`.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; versionCode 29, versionName 3.9.2; the web bundle inside reports 3.9.2/29.
 
 ## 3.9.1 release (published to main under the owner's standing approval)
 

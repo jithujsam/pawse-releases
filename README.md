@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.1.apk"><b>Download pawse 3.9.1 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.2.apk"><b>Download pawse 3.9.2 for Android (APK, 6.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -19,13 +19,13 @@ Pick something you want to change, such as late-night food orders, impulse buys,
 
 - **Three 3D pets:** a 3D dog with a face that shows how it feels, a blocky voxel cat and a 3D fox. Each has its own coats and one of four personalities: playful, calm, sassy or wise.
 - **Check in with a tap:** I slipped, having an urge, goal met, or not tracking today. One short menu, done in seconds.
-- **Fix the last few days:** forgot yesterday? Tap today or either of the two days before it on the calendar to mark it, or log a slip for it.
+- **Fix the last few days:** forgot yesterday? Tap any highlighted date from the last four days on the calendar to mark it, or log a slip for it.
 - **Health you can read:** a heart from 0 to 100, the pet's life story, and conditions that say how many good days heal them.
 - **Fair rules:** a slip costs a few months of the pet's life, a good day heals some back, and you always see the way back. A day you don't record is unknown, never a failure.
 
 <p align="center">
   <img src="screenshots/light-09-quick.png" width="200" alt="The check-in menu">
-  <img src="screenshots/light-13-journey.png" width="200" alt="The calendar: fill in today and the two days before it">
+  <img src="screenshots/light-13-journey.png" width="200" alt="The calendar: fix any of the last four days">
   <img src="screenshots/light-11-insights.png" width="200" alt="Insights: this week against last">
 </p>
 
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.2 | 2026-10-26 | The calendar and the slip sheet show real dates for the last four days, so you can fix a day you forgot. Tapping a highlighted date opens the same day sheet as before |
 | 3.9.1 | 2026-10-26 | Screens, onboarding steps and the calendar month fade in and out, with no sliding from the side. Sections fade in without moving. The update pop-up is clearer, with room between its buttons |
 | 3.9.0 | 2026-10-26 | A clearer update pop-up, with room between its buttons. Tab screens show placeholders while they load, with no held loader. Calendar: today and the two days before it open in a sheet to log a slip or a clean day. Dropdowns use pawse's own menu |
 | 3.8.9 | 2026-10-26 | Calendar: today and the two days before it open in a sheet to log a slip or mark a clean day. Loading plays once, then the page appears. Dropdowns use pawse's own menu instead of the phone's picker |
@@ -95,7 +96,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.1.apk:** `f2efbcb397367efb913bbe4b082a4210882f5e4aee11563ad702f8d551d4dc7c`
+**SHA-256 of Pawse-3.9.2.apk:** `971cbdc2dec69f6cfee5c28a04a407a9b71cb0fa89e486a9d7fd8c8c006674ca`
 
 ## Test build (not a release)
 
