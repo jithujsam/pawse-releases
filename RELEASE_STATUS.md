@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.9 release)
+Updated: 2026-10-26 (3.9.10 release)
+
+## 3.9.10 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.10 | 37 | `apk/Pawse-3.9.10.apk` (6709454 bytes) | `80b9fd2ce44b0493d63251278dc9828b542493b7479d33617af7be74f8431bcf` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `1c467e5` on the designated feature branch (`ccr-8a2d4e37-nz8qm8`), not `main`. Adds the pet name under each pet, sent only when the app is unlocked. Lint, typecheck, tests (368 web, 29 engine, 13 schema) and the web build passed; `./gradlew assembleRelease` passed.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 37, versionName 3.9.10, not debuggable; the web bundle inside reports 3.9.10/37. Not checked on a device: the name layout and colours, and the widget with a PIN set.
 
 ## 3.9.9 release (published to main under the owner's standing approval)
 

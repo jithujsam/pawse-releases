@@ -1,1 +1,1 @@
-{"name": "3.9.9", "code": 36, "url": "https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.9.apk", "notes": "The pets in the home screen widgets are bigger, one per slot.", "sha256": "826017a491e1b43f9e26c474824d12e40216a2e49be6b8cb6bb70eb31064562e"}
+{"name": "3.9.10", "code": 37, "url": "https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.10.apk", "notes": "Each pet's name shows under it in the home screen widgets, unless the app is locked.", "sha256": "80b9fd2ce44b0493d63251278dc9828b542493b7479d33617af7be74f8431bcf"}

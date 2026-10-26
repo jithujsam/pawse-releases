@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.9.apk"><b>Download pawse 3.9.9 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.10.apk"><b>Download pawse 3.9.10 for Android (APK, 6.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.10 | 2026-10-26 | Each pet's name shows under it in the home screen widgets, unless the app is locked |
 | 3.9.9 | 2026-10-26 | The pets in the home screen widgets are bigger, one per slot |
 | 3.9.8 | 2026-10-26 | The pets in the home screen widgets are bigger |
 | 3.9.7 | 2026-10-26 | Tuxedo cats are dark slate with white eyes; slips show in a clearer red on Home; the goal-met message stays up for one second; Android feel: branded splash, status bar and keyboard fit, offline bar, a confirm step before signing out; downloads open in a secure in-app tab |
@@ -103,7 +104,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.9.apk:** `826017a491e1b43f9e26c474824d12e40216a2e49be6b8cb6bb70eb31064562e`
+**SHA-256 of Pawse-3.9.10.apk:** `80b9fd2ce44b0493d63251278dc9828b542493b7479d33617af7be74f8431bcf`
 
 ## Test build (not a release)
 
