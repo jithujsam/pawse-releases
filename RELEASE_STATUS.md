@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-26 (3.9.11 release)
+Updated: 2026-10-27 (3.9.12 release)
+
+## 3.9.12 release (published to main under the owner's standing approval)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.12 | 39 | `apk/Pawse-3.9.12.apk` (6710837 bytes) | `9648ef63f7e09ffdbc1f1bb1607cd8b2717da6cc422339373ffa761a4fb89ef3` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Built and signed from pawse-app `2584882` on `main`. That merge carries the widget work of 3.9.8 to 3.9.11 (from `ccr-8a2d4e37-nz8qm8`, merge `3c5f4a9`), which had not been on `main`, plus the launch-splash and update-notes scrollbar change (`5034e75`). Lint, typecheck, tests (368 web, 29 engine) and the web build passed; `./gradlew assembleRelease` passed.
+
+**Verified on the signed file:** `apksigner` v2 signature, certificate `10ab3feb…a9f8`; `aapt2`: versionCode 39, versionName 3.9.12, not debuggable; the web bundle inside reports 3.9.12/39. Not checked on a device: the widget name labels and arrows, the launch-splash handoff and the update-notes scrollbar.
 
 ## 3.9.11 release (published to main under the owner's standing approval)
 
