@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.12.apk"><b>Download pawse 3.9.12 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.13.apk"><b>Download pawse 3.9.13 for Android (APK, 6.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.13 | 2026-10-27 | The paw boot screen is back, and the launch screen works as it did before. |
 | 3.9.12 | 2026-10-27 | The home screen pet widgets are bigger, show each pet's name, and slide between your pets with arrows; the launch screen now stays until the app is ready, with no second loading screen. |
 | 3.9.11 | 2026-10-26 | Home screen pet widgets slide between your pets, one at a time, with arrows to step through them |
 | 3.9.10 | 2026-10-26 | Each pet's name shows under it in the home screen widgets, unless the app is locked |
@@ -106,7 +107,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.12.apk:** `9648ef63f7e09ffdbc1f1bb1607cd8b2717da6cc422339373ffa761a4fb89ef3`
+**SHA-256 of Pawse-3.9.13.apk:** `7045c1fb192cac43b467c2a94e7c8bbadfb2341bf7f2634c77a0feec5d0329b1`
 
 ## Test build (not a release)
 

@@ -1,6 +1,14 @@
 # Release status
 
-Updated: 2026-10-27 (3.9.12 release)
+Updated: 2026-10-27 (3.9.13 release)
+
+## 3.9.13 release (published to main by the publish workflow)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 3.9.13 | 40 | `apk/Pawse-3.9.13.apk` (6710857 bytes) | `7045c1fb192cac43b467c2a94e7c8bbadfb2341bf7f2634c77a0feec5d0329b1` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Commit `0836b429d7dbec39cb96092b5d7d37d38c8225e3`, built 2026-10-27T05:41:07Z by local build (claude session). Tests: 13 passed (schema), 29 passed (engine), 368 passed (web); Android unit tests passed.
 
 ## 3.9.12 release (published to main under the owner's standing approval)
 
