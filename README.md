@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.0.0.apk"><b>Download pawse 4.0.0 for Android (APK, 7.2 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.0.1.apk"><b>Download pawse 4.0.1 for Android (APK, 7.2 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 4.0.1 | 2026-10-28 | Dark mode now uses true black on AMOLED screens, so the background switches off and the pet and cards stand out more. |
 | 4.0.0 | 2026-10-28 | A small paw shows while the 3D pet loads, and long habit and pet names wrap on pet cards instead of being cut off. |
 | 3.9.19 | 2026-10-28 | Updates: each update lists every version you've missed, Later stops repeats until the next version, and the Updates screen shows what's ready. |
 | 3.9.18 | 2026-10-28 | Husky dogs now come in grey, black or red coats, with a white chest and face. |
@@ -114,7 +115,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-4.0.0.apk:** `0445ad707b2c3a6b7f31c4c42036876158629a960d9425215dfa1feeaa54ea1c`
+**SHA-256 of Pawse-4.0.1.apk:** `4815fcf248af91216af79feab0cba2781163626e84f48e79ef52148d7f5f409e`
 
 ## Test build (not a release)
 
