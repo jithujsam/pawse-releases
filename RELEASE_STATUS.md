@@ -1,6 +1,16 @@
 # Release status
 
-Updated: 2026-10-28 (3.9.19 release)
+Updated: 2026-10-28 (4.0.0 release)
+
+## 4.0.0 release (published to main by hand)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 4.0.0 | 47 | `apk/Pawse-4.0.0.apk` (7151439 bytes) | `0445ad707b2c3a6b7f31c4c42036876158629a960d9425215dfa1feeaa54ea1c` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Commit `652cce5` on pawse-app `main` (merge of `claude/pensive-allen-c3vjrr` at `1d868c3`). Built locally with `assembleRelease` in the cloud session, not by the Actions workflow. Checks: lint, typecheck, web tests 400 passed, web build passed. apksigner: v2 verified, certificate `10ab3feb…a9f8`. aapt2: package `app.detoxcompanion`, versionCode 47, versionName 4.0.0, not debuggable. The bundled web app reports 4.0.0 / 47.
+
+**Device test:** not run before publishing. The owner asked for publishing directly.
 
 ## 3.9.19 release (published to main by the publish workflow)
 
