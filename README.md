@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.15.apk"><b>Download pawse 3.9.15 for Android (APK, 6.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.16.apk"><b>Download pawse 3.9.16 for Android (APK, 7.2 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.16 | 2026-10-28 | Dogs can now be a Husky as well as a Shiba Inu. Pick the breed from the new Breed menu. |
 | 3.9.15 | 2026-10-27 | The boot screen opens faster for returning users, with fewer waits while your data syncs. |
 | 3.9.14 | 2026-10-27 | Pet health now shows as a 20-segment bar with days instead of age, plus behind-the-scenes cleanups and data-safety fixes. |
 | 3.9.13 | 2026-10-27 | The paw boot screen is back, and the launch screen works as it did before. |
@@ -109,7 +110,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.15.apk:** `a608dc37ac66b0ade36e3389c3c6657d0efb1fe034d627a65d65a2d312eff8fd`
+**SHA-256 of Pawse-3.9.16.apk:** `a1538ebc14d261af0b75b6755ff5f56e279f9160424c65aaa31599c30fd4c19a`
 
 ## Test build (not a release)
 
