@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.18.apk"><b>Download pawse 3.9.18 for Android (APK, 7.2 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-3.9.19.apk"><b>Download pawse 3.9.19 for Android (APK, 7.2 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 3.9.19 | 2026-10-28 | Updates: each update lists every version you've missed, Later stops repeats until the next version, and the Updates screen shows what's ready. |
 | 3.9.18 | 2026-10-28 | Husky dogs now come in grey, black or red coats, with a white chest and face. |
 | 3.9.17 | 2026-10-28 | Check for updates now opens the update window, and a dot shows when a new version is ready. |
 | 3.9.16 | 2026-10-28 | Dogs can now be a Husky as well as a Shiba Inu. Pick the breed from the new Breed menu. |
@@ -112,7 +113,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-3.9.18.apk:** `5dee1110786a6321d3fa71640d47696031c8e90cb27503404a41a6da8ff0aacb`
+**SHA-256 of Pawse-3.9.19.apk:** `a49e2ef6d51fe6c5bb13ed294380e619d1d0a0bc685fc80691210ad868d35da5`
 
 ## Test build (not a release)
 
