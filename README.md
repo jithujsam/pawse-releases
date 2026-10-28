@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.0.1.apk"><b>Download pawse 4.0.1 for Android (APK, 7.2 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.0.2.apk"><b>Download pawse 4.0.2 for Android (APK, 7.2 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 4.0.2 | 2026-10-28 | The weekly review is simpler: clearer week labels, a choice list for next steps, and the streak chip is gone from the home screen. |
 | 4.0.1 | 2026-10-28 | Dark mode now uses true black on AMOLED screens, so the background switches off and the pet and cards stand out more. |
 | 4.0.0 | 2026-10-28 | A small paw shows while the 3D pet loads, and long habit and pet names wrap on pet cards instead of being cut off. |
 | 3.9.19 | 2026-10-28 | Updates: each update lists every version you've missed, Later stops repeats until the next version, and the Updates screen shows what's ready. |
@@ -115,7 +116,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-4.0.1.apk:** `4815fcf248af91216af79feab0cba2781163626e84f48e79ef52148d7f5f409e`
+**SHA-256 of Pawse-4.0.2.apk:** `13c52fe577371c2020af2d4e0762d3ae4c78df52419b76456611be53a0e8dfa3`
 
 ## Test build (not a release)
 
