@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.5.0.apk"><b>Download pawse 4.5.0 for Android (APK, 7.2 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.5.1.apk"><b>Download pawse 4.5.1 for Android (APK, 7.2 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 4.5.1 | 2026-10-31 | Home pets: the profile-style card is now the list view, and the two-column grid is back as it was. |
 | 4.5.0 | 2026-10-31 | Your home screen widget now shows your pet exactly as it is in the app: its breed (Husky included), coat, mood and any rescue conditions. Every pet can now be adopted as a rescue, and the Home pets use the same card as your profile. |
 | 4.4.0 | 2026-10-31 | A short guide to how Pawse works (also in Me), a calmer Missions screen, tidier settings, a list view for your pets, and the keyboard no longer covers what you type. |
 | 4.3.0 | 2026-10-31 | One clear number for your pet: wellness. 21 goal-met days in a row heal a rescue, your best run is always kept, and a rescued dog now talks about its past in a way that fits your habit. |
@@ -121,7 +122,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-4.5.0.apk:** `5283ecbf0e02f6ef81c9bfdb85001e9c09e41bbddd62af06ae0a49cbf53512a2`
+**SHA-256 of Pawse-4.5.1.apk:** `7d03541bbfb62770790e484a397475511ce6720a27958e829b1d62632e7a9d92`
 
 ## Test build (not a release)
 
