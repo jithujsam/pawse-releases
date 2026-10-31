@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.2.0.apk"><b>Download pawse 4.2.0 for Android (APK, 7.2 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.3.0.apk"><b>Download pawse 4.3.0 for Android (APK, 7.2 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 4.3.0 | 2026-10-31 | One clear number for your pet: wellness. 21 goal-met days in a row heal a rescue, your best run is always kept, and a rescued dog now talks about its past in a way that fits your habit. |
 | 4.2.0 | 2026-10-31 | Missions are simpler: 21 goal-met days in a row recover your pet, then 21 days of consistency with rewards. After that a slip brings a small issue to clear, not a restart. |
 | 4.1.0 | 2026-10-31 | Missions: adopt a healthy puppy or rescue a neglected one, pick a 30, 60 or 120-day goal, and heal six conditions with goal-met days in a row. A slip sets recovery back. |
 | 4.0.2 | 2026-10-28 | The weekly review is simpler: clearer week labels, a choice list for next steps, and the streak chip is gone from the home screen. |
@@ -118,7 +119,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-4.2.0.apk:** `fc81367cfc8b7edc3d6e92246eee9b43c9877f1046abb3e9b0656f4affba9475`
+**SHA-256 of Pawse-4.3.0.apk:** `cbcbf9108afe60cf546bf1aeb589d77fe203af189aa0079633f6e2ad42174704`
 
 ## Test build (not a release)
 
