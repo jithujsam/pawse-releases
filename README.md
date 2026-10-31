@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.0.apk"><b>Download pawse 5.0.0 for Android (APK, 7.2 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.1.apk"><b>Download pawse 5.0.1 for Android (APK, 7.2 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.1 | 2026-10-31 | New: Goal met and I slipped right on Home (a slip logs at once, with Undo and Add details), the app opens straight to your pet if you have one, Journey, Insights and Me regrouped, a Finish your plan list, and a shorter 3-step setup. |
 | 5.0.0 | 2026-10-31 | Everything from 4.5: the live 3D pet on your widget, rescue for every pet and breed, and breed and condition on the pet cards. The look is unchanged. |
 | 4.5.1 | 2026-10-31 | Home pets: the profile-style card is now the list view, and the two-column grid is back as it was. |
 | 4.5.0 | 2026-10-31 | Your home screen widget now shows your pet exactly as it is in the app: its breed (Husky included), coat, mood and any rescue conditions. Every pet can now be adopted as a rescue, and the Home pets use the same card as your profile. |
@@ -123,7 +124,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.0.apk:** `4b2182cb88a6819dcad873d74e02616fab744429daaeb55e9ce032aa7777a6fe`
+**SHA-256 of Pawse-5.0.1.apk:** `a000f51624fa35d516bb151426a9fc07e7d909f39ba2783fa002143f0fa99080`
 
 ## Test build (not a release)
 
