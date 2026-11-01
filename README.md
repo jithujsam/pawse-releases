@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.12.apk"><b>Download pawse 5.0.12 for Android (APK, 7.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.13.apk"><b>Download pawse 5.0.13 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/v5010-01-pets-list.png" width="200" alt="Your pets in list view, all cards the same size">
@@ -81,6 +81,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.13 | 2026-11-01 | The pet page now folds smoothly as you scroll and keeps your pet's speech bubble in view, with your pet and today's check-in on one screen. |
 | 5.0.12 | 2026-11-01 | The pet page now stops scrolling once it has folded, with your pet and today's check-in on one screen. The update popup has a little less space under its title. |
 | 5.0.11 | 2026-11-01 | The pet page folds as you scroll: the greeting, streak line and speech bubble tuck away and the pet shrinks, so your pet and today's check-in fit on one screen. |
 | 5.0.10 | 2026-11-01 | Dog reacts to your check-ins: a happy hop when a goal is met, and a sad look for a few seconds after a slip. The greeting is shorter, and Sign out is now at the bottom of Me. |
@@ -146,7 +147,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.12.apk:** `0c20f64f47375498d42db8576cccfb0c48044ca10485cc03f93eeb208ed821a3`
+**SHA-256 of Pawse-5.0.13.apk:** `b3706ecfd0ddee6cd542a3d85ed77dabb155c35e6b21e97555632ec106ebc010`
 
 ## Test build (not a release)
 
