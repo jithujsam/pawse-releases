@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.17.apk"><b>Download pawse 5.0.17 for Android (APK, 7.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.18.apk"><b>Download pawse 5.0.18 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/v5010-01-pets-list.png" width="200" alt="Your pets in list view, all cards the same size">
@@ -81,6 +81,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.18 | 2026-11-01 | Set a goal that means something to you: quit completely or cut down, and who you want to be. Insights now shows how close you are, and what helps when an urge hits. Dark mode is darker, and the folded pet page has a softer edge. |
 | 5.0.17 | 2026-11-01 | The update pop-up now keeps one fixed size and spacing, and the greeting and day line on the pet page fade in place as you scroll. |
 | 5.0.16 | 2026-11-01 | Your pet is a little bigger when the page folds, and there is less empty space at the bottom. |
 | 5.0.15 | 2026-11-01 | Notifications now show the Pawse paw and speak to you by name with a little emoji. The health bar lines up neatly with the check-in card. |
@@ -151,7 +152,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.17.apk:** `0ad603075f5c4e68e79c2eac15e4dfc55ef0c8ad4d745f3b44324d857fc631f3`
+**SHA-256 of Pawse-5.0.18.apk:** `a0c681b9d323df1a1e2d1c0a40dd84bc4bb32b626b778e282d9a46895b709034`
 
 ## Test build (not a release)
 
