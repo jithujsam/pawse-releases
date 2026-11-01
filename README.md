@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.3.apk"><b>Download pawse 5.0.3 for Android (APK, 7.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.4.apk"><b>Download pawse 5.0.4 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.4 | 2026-11-01 | Cleaner look: small headings now use the same clear font across the app, and your pet cards line up neatly in both grid and list view. |
 | 5.0.3 | 2026-11-01 | Your pet's room now follows its health, dark and grim when unwell and bright when thriving, plus time of day and a little for each season. You can turn the sky off in Me, Appearance. |
 | 5.0.2 | 2026-11-01 | Clearer logging on the pet page: a question, two real buttons for Goal met and I slipped, Had an urge as its own button, and a readable 28-day trail. |
 | 5.0.1 | 2026-11-01 | The greeting now sits above your pet's name on the pet page. |
@@ -127,7 +128,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.3.apk:** `5c9488605d3fcc415861a41e7ddc47ed637d318aa328ce414143181cccb224d1`
+**SHA-256 of Pawse-5.0.4.apk:** `add24ba26c7c5753ca2974bfb4d2d810170ac4b7d7089458c4eab38ebebd1467`
 
 ## Test build (not a release)
 

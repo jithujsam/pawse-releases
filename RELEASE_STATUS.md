@@ -1,6 +1,14 @@
 # Release status
 
-Updated: 2026-10-31 (4.5.1 release)
+Updated: 2026-11-01 (5.0.4 release)
+
+## 5.0.4 release (published to main by the publish workflow)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 5.0.4 | 64 | `apk/Pawse-5.0.4.apk` (7695183 bytes) | `add24ba26c7c5753ca2974bfb4d2d810170ac4b7d7089458c4eab38ebebd1467` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Commit `96d99279cf41ef328cd372e20f06e6615b9b4cb3`, built 2026-11-01T04:50:47Z. Tests: lint and typecheck clean; schema 13 passed, engine 59 passed, web 437 passed.
 
 ## 4.5.1 release (published to main by the publish workflow)
 
