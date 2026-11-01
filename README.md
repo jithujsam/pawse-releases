@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.1.apk"><b>Download pawse 5.0.1 for Android (APK, 7.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.2.apk"><b>Download pawse 5.0.2 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.2 | 2026-11-01 | Clearer logging on the pet page: a question, two real buttons for Goal met and I slipped, Had an urge as its own button, and a readable 28-day trail. |
 | 5.0.1 | 2026-11-01 | The greeting now sits above your pet's name on the pet page. |
 | 5.0.0 | 2026-11-01 | A new pet page: a warm room with the weather, wellness, run and next milestone, and your choices on one screen. The calendar now edits the last 3 days, and older days are quieter. Insights keeps what matters to everyone. |
 | 4.6.0 | 2026-11-01 | The pet screen now fits one view, with Goal met and I slipped on it. The pet card shows the weather, wellness, run and next milestone, and a 28-day trail. Log today is a new quick menu. Journey, Insights, Me and Plan are tidier. Pets are 3D only. |
@@ -125,7 +126,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.1.apk:** `4837551e7b836c7c3f93016169bcaa59d8fd611c9c229a48c10f03175dceabb2`
+**SHA-256 of Pawse-5.0.2.apk:** `e03eeda8f64422f815246a1b29b2be3050f83b49dfb216e07e492187e86df8be`
 
 ## Test build (not a release)
 
