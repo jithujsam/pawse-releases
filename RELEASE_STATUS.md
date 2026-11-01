@@ -1,6 +1,14 @@
 # Release status
 
-Updated: 2026-11-01 (5.0.15 release)
+Updated: 2026-11-01 (5.0.16 release)
+
+## 5.0.16 release (published to main by the publish workflow)
+
+| Version | Code | File | SHA-256 | Signed with |
+|---|---|---|---|---|
+| 5.0.16 | 76 | `apk/Pawse-5.0.16.apk` (7709803 bytes) | `acdf468c60ed29c96f1a29945478e9108c0b0cf88af7040a7e7884f0cd1d1d40` | Release key, certificate SHA-256 `10ab3feb74724e2e38161c8027e679438a89d3521525980fbbd796ad62faa9f8` |
+
+**Provenance.** Commit `0672a2df1e6714ac24957590a3ded82566f9da49`, built 2026-11-01T15:00:27Z by https://github.com/jithujsam/pawse-app/actions/runs/41318795625. Tests: 13 passed (13) 59 passed (59) 441 passed (441); Android unit tests passed.
 
 ## 5.0.15 release (published to main by the publish workflow)
 
