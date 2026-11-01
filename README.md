@@ -6,8 +6,8 @@
 <p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.10.apk"><b>Download pawse 5.0.10 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
-  <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
-  <img src="screenshots/light-04-home.png" width="200" alt="A pet's day: health, history, conditions and today's check-in">
+  <img src="screenshots/v5010-01-pets-list.png" width="200" alt="Your pets in list view, all cards the same size">
+  <img src="screenshots/v5010-02-pet-home.png" width="200" alt="A pet's page, with a back button to all pets">
   <img src="screenshots/dark-00-pets.png" width="200" alt="Your pets in dark mode">
 </p>
 
@@ -51,6 +51,16 @@ Two pet widgets stack every pet you're caring for, each one breathing in its moo
   <img src="screenshots/light-02-species.png" width="200" alt="Choose a pet: 3D dog, blocky voxel cat or 3D fox">
   <img src="screenshots/dark-04-home.png" width="200" alt="A pet's day in dark mode">
 </p>
+
+## What's new in 5.0.10
+
+<p align="center">
+  <img src="screenshots/v5010-03-check-in.png" width="200" alt="Today's check-in under the pet">
+  <img src="screenshots/v5010-04-urge-strength-slider.png" width="200" alt="Urge: how strong it is, on a slider with feedback">
+  <img src="screenshots/v5010-05-me-sign-out.png" width="200" alt="Sign out at the bottom of Me">
+</p>
+
+The dog hops when a goal is met and looks sad for a few seconds after a slip. The greeting is shorter, and Sign out is at the bottom of Me.
 
 ## Install in a minute
 
