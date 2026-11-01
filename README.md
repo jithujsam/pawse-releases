@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.9.apk"><b>Download pawse 5.0.9 for Android (APK, 7.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.10.apk"><b>Download pawse 5.0.10 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.10 | 2026-11-01 | Dog reacts to your check-ins: a happy hop when a goal is met, and a sad look for a few seconds after a slip. The greeting is shorter, and Sign out is now at the bottom of Me. |
 | 5.0.9 | 2026-11-01 | Pet page: the back button to your pets list is always there, even with one pet. |
 | 5.0.8 | 2026-11-01 | Pet page: a back button to your pets list is always there, even with one pet. Plus the urge strength slider with feedback and evenly sized pet cards in list view. |
 | 5.0.7 | 2026-11-01 | Streaks: a flame shows how many days in a row on each pet. The sky is back with time of day and seasons. A clearer health bar, more breathing room, and the check-in card keeps its shape after you log. |
@@ -133,7 +134,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.9.apk:** `76b5c2a5969fa220294fcf8d13190f32b032e90c1189dd361377c6c164e9be09`
+**SHA-256 of Pawse-5.0.10.apk:** `e409766cd3f3d10bb4d82a03d278dc24c56025a8e21d02950bb5d5a797e449a2`
 
 ## Test build (not a release)
 
