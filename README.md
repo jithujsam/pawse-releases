@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.1.apk"><b>Download pawse 5.0.1 for Android (APK, 7.2 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.2.apk"><b>Download pawse 5.0.2 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.2 | 2026-11-01 | The pet card shows the weather (rain when unwell, gold when thriving, fireflies at night), wellness, run and next milestone, and a 28-day trail. Log today is a new quick menu, and pets are 3D only, with the old look kept. |
 | 5.0.1 | 2026-10-31 | New: Goal met and I slipped right on Home (a slip logs at once, with Undo and Add details), the app opens straight to your pet if you have one, Journey, Insights and Me regrouped, a Finish your plan list, and a shorter 3-step setup. |
 | 5.0.0 | 2026-10-31 | Everything from 4.5: the live 3D pet on your widget, rescue for every pet and breed, and breed and condition on the pet cards. The look is unchanged. |
 | 4.5.1 | 2026-10-31 | Home pets: the profile-style card is now the list view, and the two-column grid is back as it was. |
@@ -124,7 +125,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.1.apk:** `a000f51624fa35d516bb151426a9fc07e7d909f39ba2783fa002143f0fa99080`
+**SHA-256 of Pawse-5.0.2.apk:** `7564862a6f13d8d7f60d8f02727911c76772507a3ccb7aebae8b8be979d72ad2`
 
 ## Test build (not a release)
 
