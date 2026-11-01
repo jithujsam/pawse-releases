@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-4.6.0.apk"><b>Download pawse 4.6.0 for Android (APK, 7.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.0.apk"><b>Download pawse 5.0.0 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/light-00-pets.png" width="200" alt="Your pets: a 3D dog, a 3D fox and a blocky voxel cat">
@@ -71,6 +71,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.0 | 2026-11-01 | A new pet page: a warm room with the weather, wellness, run and next milestone, and your choices on one screen. The calendar now edits the last 3 days, and older days are quieter. Insights keeps what matters to everyone. |
 | 4.6.0 | 2026-11-01 | The pet screen now fits one view, with Goal met and I slipped on it. The pet card shows the weather, wellness, run and next milestone, and a 28-day trail. Log today is a new quick menu. Journey, Insights, Me and Plan are tidier. Pets are 3D only. |
 | 4.5.1 | 2026-10-31 | Home pets: the profile-style card is now the list view, and the two-column grid is back as it was. |
 | 4.5.0 | 2026-10-31 | Your home screen widget now shows your pet exactly as it is in the app: its breed (Husky included), coat, mood and any rescue conditions. Every pet can now be adopted as a rescue, and the Home pets use the same card as your profile. |
@@ -123,7 +124,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-4.6.0.apk:** `cb83d4bfa2c89e3322d15dff5081a571ac1104c04aad9acab65e6ada473c69d6`
+**SHA-256 of Pawse-5.0.0.apk:** `bf5b11684d26c8530735066776007b50c777825c6a29f29013cfe4f9b783f2d9`
 
 ## Test build (not a release)
 
