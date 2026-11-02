@@ -3,7 +3,7 @@
 <h3 align="center">Pause the habit. Keep your pet happy.</h3>
 <p align="center">A pet for every habit you're changing. Good days keep it healthy, slips cost a little, and it's never cruel about it.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.19.apk"><b>Download pawse 5.0.19 for Android (APK, 7.7 MB)</b></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/jithujsam/pawse-releases/main/apk/Pawse-5.0.20.apk"><b>Download pawse 5.0.20 for Android (APK, 7.7 MB)</b></a></p>
 
 <p align="center">
   <img src="screenshots/v5010-01-pets-list.png" width="200" alt="Your pets in list view, all cards the same size">
@@ -81,6 +81,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 | Version | Date | What's new |
 |---|---|---|
+| 5.0.20 | 2026-11-02 | Staying signed in is smoother: the login screen no longer flashes before your pets when the app opens. Password-reset links open the new-password screen reliably, and deleting an account now needs a fresh sign-in for safety. |
 | 5.0.19 | 2026-11-01 | Adding a pet is easier: pick a Shiba Inu or Husky and its colour by swiping, and adoption is now its own step. Your pet faces you instead of looking away, and pet names no longer say 3D. |
 | 5.0.18 | 2026-11-01 | Set a goal that means something to you: quit completely or cut down, and who you want to be. Insights now shows how close you are, and what helps when an urge hits. Dark mode is darker, and the folded pet page has a softer edge. |
 | 5.0.17 | 2026-11-01 | The update pop-up now keeps one fixed size and spacing, and the greeting and day line on the pet page fade in place as you scroll. |
@@ -153,7 +154,7 @@ From 3.0.0 on, new versions install over the old one as usual.
 
 Release details and checks: [RELEASE_STATUS.md](RELEASE_STATUS.md).
 
-**SHA-256 of Pawse-5.0.19.apk:** `d881a461f0c0fa004e24d01957bc44ca1cbec986d3b74593ce457a5c5feab1c0`
+**SHA-256 of Pawse-5.0.20.apk:** `17065577919db3c0bef972c3a721efe51ebebd24845de47f74be97f2a133de89`
 
 ## Test build (not a release)
 
